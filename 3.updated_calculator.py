@@ -24,7 +24,7 @@ def devi(a,*b):
     return a/(math.prod(b))
 # print(devi(20,2,5))
 
-# user inputd
+# user input
 
 def get_number():
       a = input("enter number(space between two numbers): ").split()
