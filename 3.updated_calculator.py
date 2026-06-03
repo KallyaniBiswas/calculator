@@ -1,7 +1,7 @@
 print("Welcome to Smart Utility Function Toolkit")
 
 
-# calculator functions
+
 
 def add(*a):
     return sum(a)
